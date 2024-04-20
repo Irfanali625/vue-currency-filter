@@ -1,0 +1,194 @@
+[
+    {
+        "country_name": "Pakistan",
+        "year": "1947 - 1948",
+        "status": "Demonotized",
+        "range": "one",
+        "value": 1,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "front_pic": "images/one-rupee-front.png",
+        "back_pic": "images/one-rupee-back.png"
+    },
+    
+    {
+        "country_name": "Pakistan",
+        "year": "1949",
+        "status": "Demonotized",
+        "range": "ten",
+        "value": 10,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "front_pic": "images/ten-rupee-front.png",
+        "back_pic": "images/ten-rupee-back.png"
+    },
+    {
+        "country_name": "Pakistan",
+        "year": "2000",
+        "status": "Valid",
+        "range": "ten",
+        "value": 10,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "front_pic": "images/ten-front.jpg",
+        "back_pic": "images/five-rupee-back.png"
+    },
+    {
+        "country_name": "China",
+        "year": "1947",
+        "status": "Demonotized",
+        "range": "hundred",
+        "value": 100,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "front_pic": "https://www.thechinaguide.com/uploads/edt/2/671c3ef2a0-100rmb.jpg",
+        "back_pic": "https://www.thechinaguide.com/uploads/edt/2/671c3ef2a0-100rmb.jpg"
+    },
+    
+    {
+        "country_name": "China",
+        "year": "1947",
+        "status": "Demonotized",
+        "range": "hundred",
+        "value": 100,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "front_pic": "https://www.thechinaguide.com/uploads/edt/2/671c3ef2a0-100rmb.jpg",
+        "back_pic": "https://www.thechinaguide.com/uploads/edt/2/671c3ef2a0-100rmb.jpg"
+    },
+    {
+        "country_name": "China",
+        "year": "1980",
+        "status": "Valid",
+        "range": "hundred",
+        "value": 100,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "front_pic": "https://www.thechinaguide.com/uploads/edt/2/671c3ef2a0-100rmb.jpg",
+        "back_pic": "https://www.thechinaguide.com/uploads/edt/2/671c3ef2a0-100rmb.jpg"
+    },
+    {
+        "country_name": "India",
+        "year": "1947",
+        "status": "Demonotized",
+        "range": "fiveHundred",
+        "value": 500,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "front_pic": "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/india-500-rupee-note.jpg",
+        "back_pic": "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/india-500-rupee-note.jpg"
+    },
+    {
+        "country_name": "India",
+        "year": "1947",
+        "status": "Demonotized",
+        "range": "fiveHundred",
+        "value": 500,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "front_pic": "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/india-500-rupee-note.jpg",
+        "back_pic": "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/india-500-rupee-note.jpg"
+    },
+    {
+        "country_name": "India",
+        "year": "1990",
+        "status": "Valid",
+        "range": "fiveHundred",
+        "value": 500,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/india-500-rupee-note.jpg",
+        "back_pic": "https://back.3blmedia.com/sites/default/files/styles/ratio_3_2/public/triplepundit/wide/india-500-rupee-note.jpg"
+    },
+    {
+        "country_name": "Usa",
+        "year": "1947",
+        "status": "Demonotized",
+        "range": "hundred",
+        "value": 100,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://cdn.corporatefinanceinstitute.com/assets/united-states-dollar-usd.jpeg",
+        "back_pic": "https://cdn.corporatefinanceinstitute.com/assets/united-states-dollar-usd.jpeg"
+    },
+    {
+        "country_name": "Usa",
+        "year": "1950",
+        "status": "Demonotized",
+        "range": "hundred",
+        "value": 100,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://cdn.corporatefinanceinstitute.com/assets/united-states-dollar-usd.jpeg",
+        "back_pic": "https://cdn.corporatefinanceinstitute.com/assets/united-states-dollar-usd.jpeg"
+    },
+    {
+        "country_name": "Usa",
+        "year": "2002",
+        "status": "Valid",
+        "range": "hundred",
+        "value": 100,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://cdn.corporatefinanceinstitute.com/assets/united-states-dollar-usd.jpeg",
+        "back_pic": "https://cdn.corporatefinanceinstitute.com/assets/united-states-dollar-usd.jpeg"
+    },
+    {
+        "country_name": "Saudia",
+        "year": "1947",
+        "status": "Demonotized",
+        "range": "Twenty",
+        "value": 20,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://dailytimes.com.pk/assets/uploads/2020/10/27/Saudi_Arabia_SAMA_20_riyals_2020.00.00_B142a_PNL_A_053190300_f-1536x694-1.jpg",
+        "back_pic": "https://dailytimes.com.pk/assets/uploads/2020/10/27/Saudi_Arabia_SAMA_20_riyals_2020.00.00_B142a_PNL_A_053190300_f-1536x694-1.jpg"
+    },
+    {
+        "country_name": "Saudia",
+        "year": "1960",
+        "status": "Demonotized",
+        "range": "Twenty",
+        "value": 20,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://dailytimes.com.pk/assets/uploads/2020/10/27/Saudi_Arabia_SAMA_20_riyals_2020.00.00_B142a_PNL_A_053190300_f-1536x694-1.jpg",
+        "back_pic": "https://dailytimes.com.pk/assets/uploads/2020/10/27/Saudi_Arabia_SAMA_20_riyals_2020.00.00_B142a_PNL_A_053190300_f-1536x694-1.jpg"
+    },
+    {
+        "country_name": "Saudia",
+        "year": "2005",
+        "status": "Valid",
+        "range": "Twenty",
+        "value": 20,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://dailytimes.com.pk/assets/uploads/2020/10/27/Saudi_Arabia_SAMA_20_riyals_2020.00.00_B142a_PNL_A_053190300_f-1536x694-1.jpg",
+        "back_pic": "https://dailytimes.com.pk/assets/uploads/2020/10/27/Saudi_Arabia_SAMA_20_riyals_2020.00.00_B142a_PNL_A_053190300_f-1536x694-1.jpg"
+    },
+    {
+        "country_name": "Egypt",
+        "year": "1947",
+        "status": "Demonotized",
+        "range": "ten",
+        "value": 10,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://platform.keesingtechnologies.com/wp-content/uploads/2021/08/EG072V.jpg",
+        "back_pic": "https://platform.keesingtechnologies.com/wp-content/uploads/2021/08/EG072V.jpg"
+    },
+    {
+        "country_name": "Egypt",
+        "year": "1980",
+        "status": "Demonotized",
+        "range": "ten",
+        "value": 10,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://platform.keesingtechnologies.com/wp-content/uploads/2021/08/EG072V.jpg",
+        "back_pic": "https://platform.keesingtechnologies.com/wp-content/uploads/2021/08/EG072V.jpg"
+    },
+    {
+        "country_name": "Egypt",
+        "year": "2001",
+        "status": "valid",
+        "range": "ten",
+        "value": 10,
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
+        "front_pic": "https://platform.keesingtechnologies.com/wp-content/uploads/2021/08/EG072V.jpg",
+        "back_pic": "https://platform.keesingtechnologies.com/wp-content/uploads/2021/08/EG072V.jpg"
+    }
+]
